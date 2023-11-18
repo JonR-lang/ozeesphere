@@ -1,0 +1,35 @@
+{
+    "posts": [
+        {
+            "id":1,
+            "title": "Hey Big Sister,",
+            "body": "Hey, this is me, reflecting on the incredible journey of being a big sister. It's a role that goes beyond just sharing DNA; it's about being a guide, a confidante, and a friend. As a big sister, I've had the privilege of witnessing the growth and development of my younger siblings, celebrating their successes, and providing comfort during the challenges. The laughter we've shared, the tears we've wiped away, and the countless memories we've created have woven a tapestry of familial love that is both beautiful and enduring. Being a big sister comes with its unique set of responsibilities, but it's also a source of immense joy. From offering advice on navigating the complexities of school life to sharing the wisdom gained from personal experiences, the role of a big sister is multifaceted. The bond formed with younger siblings is one of mutual support, where we learn from each other and grow together. Through the highs and lows, the victories and setbacks, the journey of being a big sister has taught me the importance of patience, empathy, and understanding. It's a continuous learning experience that shapes not only the lives of the younger ones but also molds the character of the big sister. This role has allowed me to appreciate the nuances of family dynamics and to cherish the moments that define our shared history.", 
+            "likes": 12
+
+        },
+        {
+            "id":2,
+            "title": "Puberty, my bitter-sweet experience",
+            "body": "Puberty, oh the rollercoaster of emotions and physical changes! As I reminisce about my own journey through this transformative phase of life, I'm compelled to share the intricate details of the bitter-sweet experience that is puberty. It's a time marked by both excitement and uncertainty, as the body undergoes profound changes, and the mind grapples with newfound emotions. Navigating puberty is like embarking on an uncharted adventure, discovering aspects of oneself that were previously hidden. The physical transformations are undeniable, but it's the emotional evolution that truly defines this period. From the awkwardness of adolescence to the self-discovery that accompanies it, every step in this journey contributes to shaping an individual's identity. In my own experience, I've faced insecurities head-on, embracing the changes that, at times, seemed overwhelming. It's a process of self-acceptance, learning to appreciate the uniqueness that puberty brings to each person. Through the confusion and self-doubt, there's an emergence of strength and resilience that sets the foundation for the adult years.Sharing my story of puberty is not just a personal narrative but a testament to the universal experience we all go through. It's a reminder that we are not alone in this transformative journey and that, despite the challenges, there's a beauty in the evolution of self. By opening up about the bitter-sweet moments, I hope to connect with others on a similar path, offering solidarity and understanding", 
+            "likes": 65
+
+        },
+        {
+            "id":3,
+            "title": "A Journey Through the Enchanted Forest",
+            "body": "Embarking on a metaphorical journey through the enchanted forest of life, I find myself reflecting on the twists and turns that have defined my path. This whimsical adventure, much like puberty, is a blend of discovery, mystery, and growth. As I navigate through the towering trees and meandering streams, each step brings me closer to understanding the magic within. The enchanted forest represents the complexities of life, with its share of challenges and wonders. Just as puberty is a transformative phase, this journey mirrors the evolution of self in the face of the unknown. It's a tale of resilience, where the roots of personal strength delve deep into the soil of experience, drawing nourishment from both the sunlight of joy and the shadows of adversity. Within the enchanted forest, I encounter mythical creatures of self-doubt and fear, but also stumble upon the clearings of self-discovery and courage. The narrative unfolds with the rustling leaves of introspection and the melodies of self-acceptance. Each encounter, whether daunting or delightful, contributes to the rich tapestry of my own enchanted story.Through the telling of this narrative, I aim to weave a connection with others traversing their own enchanted forests. It's an acknowledgment that we are all part of a grander story, where our individual journeys intersect and diverge. The enchanted forest of life, much like puberty, is a shared experience filled with magic and growth, and I invite others to explore its depths with open hearts and curious minds.", 
+            "likes": 4
+
+        }
+        
+    ],
+    
+    "polls": [
+        {
+            "id":1,
+            "question":"Do you like more or do you like less",
+            "answerA": "More", 
+            "answerB":"Less"
+        }
+    ]
+}
